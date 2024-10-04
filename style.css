@@ -1,6 +1,5 @@
 body {
   font-family: "Roboto, Poppins", sans-serif;
-  background-color: #faf9f6;
   background-color:lavenderblush;
   height: 100vh; 
   min-height: 95vh;
@@ -11,7 +10,7 @@ body {
 .creative {
   color: midnightblue;
 }
-
+  
 h1 {
   font-size: 2.5rem;
   font-family: "Yatra One", Roboto, system-ui, "Poppins";
@@ -50,7 +49,6 @@ img {
 }
 .third {
   flex: 0.20;
-  background-color: #faf9f6; 
 }
 .fourth {
   flex: 1;
